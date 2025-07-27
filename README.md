@@ -1,0 +1,1 @@
+emotion-expansion is a project aimed at exploring, analyzing, or expanding upon emotional data or experiences. The repository may include tools, datasets, or code that facilitate research or development in the field of emotional intelligence, affective computing, or related areas.
